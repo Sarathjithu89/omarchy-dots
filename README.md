@@ -111,10 +111,7 @@ via `omarchy theme set "Breeze Dark"` and shows up in the theme switcher.
   images). Copy them across manually if you want them, and the theme's own
   background folder is `~/.config/omarchy/themes/breeze-dark/backgrounds/`
   (drop images there, then `omarchy theme bg set <image>`).
-- **A half-finished "phone mic" experiment** (`sarath.phone-mic`) was left
-  behind as a disabled backup and is not tracked.
-- Secrets: none of these files contain credentials. If you add anything
-  that might, keep it out of the repo.
+
 
 ## Updating the repo after changing something
 
