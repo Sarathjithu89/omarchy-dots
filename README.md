@@ -1,4 +1,4 @@
-# Omarchy Dots — Sarath's Omarchy setup
+# Omarchy Dots — Omarchy setup
 
 Custom plugin and configuration backup for [Omarchy](https://omarchy.org/)
 (Arch + Hyprland). This repo reproduces the status bar, notification / OSD
