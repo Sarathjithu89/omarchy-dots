@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "sarath.nightlight",
+  "name": "Night Light",
+  "version": "1.0.0",
+  "author": "Sarath",
+  "description": "Persistent night light control: toggle and warmth that survive reboots",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "NightLight.qml"
+  },
+  "barWidget": {
+    "displayName": "Night Light",
+    "description": "Night light (blue-light filter) with a persistent day/night schedule",
+    "category": "Status",
+    "allowMultiple": false
+  }
+}
