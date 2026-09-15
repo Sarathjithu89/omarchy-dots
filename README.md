@@ -41,10 +41,9 @@ whole setup can be restored onto a fresh Omarchy system with one command.
 Clone this repo and run the restore script on the new machine:
 
 ```bash
-git clone https://github.com/<your-user>/omarchy-dots.git
+git clone https://github.com/Sarathjithu89/omarchy-dots.git
 cd omarchy-dots
 ./install.sh            # previews, then asks for confirmation
-# or: ./install.sh --yes
 ```
 
 The script:
